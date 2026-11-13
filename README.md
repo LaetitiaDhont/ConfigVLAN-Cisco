@@ -28,10 +28,9 @@ Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Pack
 
 ### 2. Segmentation par VLANs et Routage Inter-VLAN (Router-on-a-Stick)
 * **Description :** Conception d'un réseau d'entreprise segmenté en plusieurs VLANs logiques :
-  * **VLAN 10 (Clients) :** `192.168.10.0/24`[cite: 3]
-  * **VLAN 20 (Gestion - IT) :** `192.168.20.0/27`[cite: 3]
-  * **VLAN 30 (Serveurs DNS/DHCP) :** `192.168.30.0/28`[cite: 3]
-* **Fichiers associés :** `vlan_enterprise_network.pkt` *(Remplacez par le nom réel)*
+  * **VLAN 10 (Clients) :** `192.168.10.0/24
+  * **VLAN 20 (Gestion - IT) :** `192.168.20.0/27
+  * **VLAN 30 (Serveurs DNS/DHCP) :** `192.168.30.0/28
 * **Points techniques clés :** Configuration des ports trunk/access sur les switchs et encapsulation 802.1Q sur le routeur.
 
 ### 3. Topologie de Base et Apprentissage Fondamental
@@ -53,7 +52,7 @@ Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Pack
 En reconversion vers les métiers de l'infrastructure et des réseaux, je mets un point d'honneur à valider mes compétences théoriques par de la **mise en pratique rigoureuse**. Ce dépôt témoigne de ma capacité à concevoir, configurer et dépanner des architectures réseaux de zéro.
 
 * 💼 **Recherche :** À l'écoute d'opportunités en tant qu'**Administrateur Systèmes et Réseaux** (alternance ou premier poste).
-* 📬 **Contact :** [Votre LinkedIn](https://linkedin.com/in/votre-profil) | [Votre Email](mailto:votre.email@domaine.com)
+* 📬 **Contact :** https://www.linkedin.com/in/laetitia-dhont/ | [Mon mail](laetitiadhont75@gmail.com)
 
 ---
 ⭐ *N'hésitez pas à parcourir les fichiers `.pkt` inclus dans ce dépôt pour explorer les configurations en détail !*
