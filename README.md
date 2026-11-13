@@ -1,6 +1,6 @@
 # 🌐 Projets Cisco Packet Tracer
 
-Bienvenue sur mon dépôt dédié à mes exercices et projets pratiques de mise en réseau réalisés dans le cadre de ma reconversion professionnelle en tant qu'**Administrateur Systèmes et Réseaux**. 
+Bienvenue sur mon dépôt dédié à mes exercices et projets pratiques de mise en réseau réalisés dans le cadre de ma reconversion professionnelle en tant qu'**Administratrice Systèmes et Réseaux**. 
 
 Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Packet Tracer**, démontrant ma maîtrise des concepts fondamentaux et avancés du routage, de la commutation et du subnetting.
 
@@ -37,7 +37,6 @@ Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Pack
 
 ### 3. Topologie de Base et Apprentissage Fondamental
 * **Description :** Premiers pas sur la configuration d'interfaces, attribution d'adresses IP aux équipements finaux (PC) et validation de la connectivité locale.
-* **Fichiers associés :** `basic_routing_switch.pkt` *(Remplacez par le nom réel)*
 
 ---
 
@@ -53,7 +52,7 @@ Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Pack
 
 En reconversion vers les métiers de l'infrastructure et des réseaux, je mets un point d'honneur à valider mes compétences théoriques par de la **mise en pratique rigoureuse**. Ce dépôt témoigne de ma capacité à concevoir, configurer et dépanner des architectures réseaux de zéro.
 
-* 💼 **Recherche :** À l'écoute d'opportunités en tant qu'**Administrateur Systèmes et Réseaux** (alternance ou premier poste).
+* 💼 **Recherche :** À l'écoute d'opportunités en tant qu'**Administratrice Systèmes et Réseaux** (alternance ou premier poste).
 * 📬 **Contact :** https://www.linkedin.com/in/laetitia-dhont/ | laetitiadhont75@gmail.com
 
 ---
