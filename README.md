@@ -24,7 +24,6 @@ Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Pack
 
 ### 1. Topologie Multi-Routeurs et Routage Statique Avancé
 * **Description :** Architecture interconnectant plusieurs routeurs via des liaisons WAN point-à-point (`/30`) et des réseaux locaux distincts. Mise en place d'un routage statique complet pour assurer la joabilité de bout en bout entre tous les départements.
-* **Fichiers associés :** `multi_router_routing.pkt` *(Remplacez par le nom réel de votre fichier)*
 * **Points techniques clés :** 
   * Gestion de tables de routage statiques complexes.
   * Optimisation des chemins réseau à travers des passerelles multiples.
