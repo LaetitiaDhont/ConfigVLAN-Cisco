@@ -52,7 +52,7 @@ Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Pack
 En reconversion vers les métiers de l'infrastructure et des réseaux, je mets un point d'honneur à valider mes compétences théoriques par de la **mise en pratique rigoureuse**. Ce dépôt témoigne de ma capacité à concevoir, configurer et dépanner des architectures réseaux de zéro.
 
 * 💼 **Recherche :** À l'écoute d'opportunités en tant qu'**Administrateur Systèmes et Réseaux** (alternance ou premier poste).
-* 📬 **Contact :** https://www.linkedin.com/in/laetitia-dhont/ | [Mon mail](laetitiadhont75@gmail.com)
+* 📬 **Contact :** https://www.linkedin.com/in/laetitia-dhont/ | laetitiadhont75@gmail.com
 
 ---
 ⭐ *N'hésitez pas à parcourir les fichiers `.pkt` inclus dans ce dépôt pour explorer les configurations en détail !*
