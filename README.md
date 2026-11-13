@@ -1,10 +1,13 @@
-# 🌐 Portfolio Réseau & Systèmes - Projets Cisco Packet Tracer
+# 🌐 Projets Cisco Packet Tracer
 
 Bienvenue sur mon dépôt dédié à mes exercices et projets pratiques de mise en réseau réalisés dans le cadre de ma reconversion professionnelle en tant qu'**Administrateur Systèmes et Réseaux**. 
 
 Ce dépôt regroupe plusieurs architectures réseaux simulées sous **Cisco Packet Tracer**, démontrant ma maîtrise des concepts fondamentaux et avancés du routage, de la commutation et du subnetting.
 
 ---
+
+<img width="1153" height="642" alt="image" src="https://github.com/user-attachments/assets/2b3c34f9-d8b4-46d9-890e-60fdd86e4acf" />
+
 
 ## 🚀 Compétences Démontrées
 
